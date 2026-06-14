@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: endtoend
+Version: 0.0.1
+Author: Vaibhav
+Author-email: vaibhav@example.com
+Requires-Dist: pandas
+Requires-Dist: numpy
+Requires-Dist: seaborn

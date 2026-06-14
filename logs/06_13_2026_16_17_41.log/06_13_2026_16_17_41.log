@@ -1,0 +1,15 @@
+[2026-06-13 16:17:43,167] 25 root INFO Data Ingestion started
+[2026-06-13 16:17:43,177] 28 root INFO Read the datset as dataframe
+[2026-06-13 16:17:43,187] 31 root INFO Train test split initiated
+[2026-06-13 16:17:43,193] 35 root INFO Ingestion of data is completed
+[2026-06-13 16:17:43,215] 51 root INFO Read the datasets
+[2026-06-13 16:17:43,215] 52 root INFO Obtaining preprocessing object
+[2026-06-13 16:17:43,215] 25 root INFO Data Transformation started
+[2026-06-13 16:17:43,215] 36 root INFO preprocessing pipeline completed
+[2026-06-13 16:17:43,215] 41 root INFO Column Transformer created
+[2026-06-13 16:17:43,233] 64 root INFO Applying preprocessing
+[2026-06-13 16:17:43,249] 69 root INFO preprocessing
+[2026-06-13 16:17:43,264] 73 root INFO saving the preprocessor object
+[2026-06-13 16:17:43,264] 32 root INFO splitting the train and test data
+[2026-06-13 16:17:46,471] 47 root INFO model training
+[2026-06-13 16:17:46,471] 59 root INFO best model score is greater than 0.6

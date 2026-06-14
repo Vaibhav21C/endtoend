@@ -1,0 +1,3 @@
+[2026-06-14 11:20:31,547] 97 werkzeug WARNING  * Debugger is active!
+[2026-06-14 11:20:31,552] 97 werkzeug INFO  * Debugger PIN: 156-586-073
+[2026-06-14 11:24:09,311] 97 werkzeug INFO  * Detected change in 'd:\\projects\\endtoend\\src\\components\\data_ingestion.py', reloading
